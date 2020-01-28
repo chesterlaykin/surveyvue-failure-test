@@ -15,7 +15,7 @@ import * as SurveyVue from 'survey-vue'
 var Survey = SurveyVue.Survey
 Survey.cssType = "bootstrap";
 
-//Here is example survey json data:   (see more example data in storage/json_data1.json and storage/json_data2.json)
+//Here is example survey json data: (more example data in storage/json_data1.json and storage/json_data2.json)
  var surveyJSData = {
 	"locale": "sv",
 	"title": "Hobbies",
